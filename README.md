@@ -8,4 +8,4 @@ Selected links:
 
 - Website: https://michaelkrasa.com
 - LinkedIn: https://www.linkedin.com/in/michaelkrasa/
-- Resume: https://michaelkrasa.comassets/Michael_Krasa_resume.pdf
+- Resume: https://michaelkrasa.com/assets/Michael_Krasa_resume.pdf
